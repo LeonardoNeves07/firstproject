@@ -22,7 +22,6 @@ box-sizing: border-box;
 --surface-color-hover: rgba(0, 0, 0, 0.02);
 --highlight-color: rgba(0, 0, 0, 0.1);
 --switch-bg-url: url(assets/sun.svg)
-
 }
 
 
@@ -82,8 +81,6 @@ animation: slide-in 0.4s forwards;
   outline: 8px solid var(--highlight-color);
 }
 
-
-
 #switch span {
 display: block;
 width: 64px;
@@ -93,14 +90,7 @@ border: 1px solid var(--stroke-color);
 backdrop-filter: blur(4px);
 -webkit-backdrop-filter: blur(4px);
 border-radius: 9999px;
-
-
 }
-
-
-
-
-
 
 
 #profile {
@@ -197,5 +187,4 @@ from {
 to {
 left: 0%;
 }
-
 }
