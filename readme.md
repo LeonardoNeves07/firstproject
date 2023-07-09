@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido por Leonardo Neves <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Social Medias" src=".github/preview.jpg" 
+  <img alt="projeto Social Medias" src=".github/Preview.jpg" 
   width="100%">
 </p>
 
