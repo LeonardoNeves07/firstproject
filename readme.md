@@ -19,7 +19,8 @@ Programa exclusivo e gratuito, promovido por Leonardo Neves <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Social Medias" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Social Medias" src=".github/preview.jpg" 
+  width="100%">
 </p>
 
 ## 🚀 Tecnologias
